@@ -10,3 +10,20 @@ Weatherbot - ТГ-бот, который предоставляет прогно
 * PyTelegramBotApi
 * Selenium
 * BeautifulSoup
+## Скриншоты
+* Выбор даты
+
+
+![Выбор даты](screenshots/choose_date.png)
+* Прогноз на ближайшие сутки
+
+
+![Прогноз на ближайшие сутки](screenshots/24_hours.png)
+* Подробный прогноз на завтра
+
+
+![Подробный прогноз на завтра](screenshots/tomorrow.png)
+* Прогноз на 10 дней
+
+
+![Прогноз на 10 дней](screenshots/10_days.png)
